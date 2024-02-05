@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "name": "The Great Gatsby",
+      "price": 15.99,
+      "category": "Fiction",
+      "description": "A classic novel by F. Scott Fitzgerald, exploring themes of wealth, love, and the American Dream."
+    },
+    {
+      "id": 2,
+      "name": "To Kill a Mockingbird",
+      "price": 12.49,
+      "category": "Classic",
+      "description": "Harper Lee's masterpiece addressing racial injustice and moral growth in the American South."
+    },
+    {
+      "id": 3,
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "price": 9.99,
+      "category": "Science Fiction",
+      "description": "A humorous sci-fi series by Douglas Adams, following the misadventures of Arthur Dent in space."
+    },
+    {
+      "id": 4,
+      "name": "1984",
+      "price": 14.75,
+      "category": "Dystopian",
+      "description": "George Orwell's classic depicting a totalitarian future where freedom is restricted."
+    },
+    {
+      "id": 5,
+      "name": "Pride and Prejudice",
+      "price": 11.25,
+      "category": "Romance",
+      "description": "Jane Austen's timeless novel exploring love, class, and societal expectations."
+    },
+    {
+      "id": 6,
+      "name": "The Hobbit",
+      "price": 13.99,
+      "category": "Fantasy",
+      "description": "J.R.R. Tolkien's adventure of Bilbo Baggins, a hobbit on a quest for treasure guarded by a dragon."
+    },
+    {
+      "id": 7,
+      "name": "The Catcher in the Rye",
+      "price": 10.99,
+      "category": "Coming of Age",
+      "description": "J.D. Salinger's novel capturing the angst and alienation of a teenage protagonist."
+    },
+    {
+      "id": 8,
+      "name": "The Da Vinci Code",
+      "price": 16.50,
+      "category": "Mystery",
+      "description": "Dan Brown's thrilling mystery involving symbolism, art, and ancient secrets."
+    },
+    {
+      "id": 9,
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "price": 18.99,
+      "category": "Fantasy",
+      "description": "J.K. Rowling's magical tale introducing the wizarding world and the young wizard Harry Potter."
+    },
+    {
+      "id": 10,
+      "name": "The Lord of the Rings",
+      "price": 23.75,
+      "category": "Epic Fantasy",
+      "description": "J.R.R. Tolkien's epic trilogy following the quest to destroy the One Ring and save Middle-earth."
+    },
+    {
+      "id": 11,
+      "name": "The Hunger Games",
+      "price": 14.25,
+      "category": "Dystopian",
+      "description": "Suzanne Collins' gripping series depicting a dystopian society where teenagers fight to the death for entertainment."
+    }
+  ]
+  
